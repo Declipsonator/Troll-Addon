@@ -1,0 +1,10 @@
+{
+  "commands": {
+      "altNames": ["what-other-things-may-i-type-in-chat", "command-for-commands"],
+      "altDescriptions": ["Tells you what other things you can type in your freedom of expression box."]
+  },
+  "dismount": {
+      "altNames": ["leave-entity", "jump-off-minecraft-thing"],
+      "altDescriptions": ["Teleports off the entity and to a random spot around it, like chorus fruit."]
+  }
+}
