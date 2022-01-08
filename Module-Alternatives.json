@@ -1,12 +1,12 @@
 [
   {
-    "name": "crystal-aura",
-    "altNames": ["floating-gem-spammer", "crystal-placer"],
+    "name": "Crystal Aura",
+    "altNames": ["Floating Gem Spammer", "Crystal Placer"],
     "altDescriptions": ["Placing minecraft entities on bedrock to make annoying people go kaboom."]
   },
   {
-    "name": "auto-totem",
-    "altNames": ["religious-doll-carrier", "anti-die"],
+    "name": "Auto Totem",
+    "altNames": ["Religious Doll Carrier", "Anti Die"],
     "altDescriptions": ["Your enemy is approaching, you have very little time, a floating piece of shit explodes, and what do you know. A doll kept you alive"]
   }
 ]
