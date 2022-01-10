@@ -48,6 +48,4 @@ public class TrollAddon extends MeteorAddon {
         }
     }
 
-
-
 }
