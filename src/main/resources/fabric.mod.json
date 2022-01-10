@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "banana-plus",
+  "version": "${version}",
+  "name": "Banana Plus",
+  "description": "The excellent addon to Meteor client.",
+  "authors": [
+    "Necropho",
+    "Bennoo"
+  ],
+  "contact": {
+  },
+  "icon": "assets/BananaPlus.png",
+  "environment": "client",
+  "entrypoints": {
+    "meteor": [
+      "me.declipsonator.trolladdon.TrollAddon"
+    ]
+  },
+  "mixins": [
+    "troll.mixins.json"
+  ],
+  "custom": {
+    "meteor-client:color": "255,255,51"
+  },
+  "depends": {
+    "java": ">=17",
+    "minecraft": ">=1.18",
+    "meteor-client": "*"
+  }
+}
