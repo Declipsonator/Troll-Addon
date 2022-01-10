@@ -49,10 +49,9 @@ public class CommandMixin {
             this.title = Utils.nameToTitle(this.name);
             this.description = getRandomSelection(module.getAltDescriptions());
             //I decided against making new aliases. I'm just going to remove them and confuse ppl more
+            //might add them in the future
             this.aliases.clear();
         }
-
-
     }
 
 
