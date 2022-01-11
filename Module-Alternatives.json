@@ -3,8 +3,72 @@
       "altNames": ["Floating Gem Spammer", "Crystal Placer"],
       "altDescriptions": ["Placing minecraft entities on bedrock to make annoying people go kaboom."]
   },
+  "aim-assist": {
+      "altNames": ["Auto Aimer", "Look For You"],
+      "altDescriptions": ["You shall be pointing at that entity."]
+  },
+  "anchor-aura": {
+      "altNames": ["Nether Spawn Exploder", "Anchor Boom Boom"],
+      "altDescriptions": ["Blows up random specific types of blocks to kill enemies."]
+  },
+  "anti-anchor": {
+      "altNames": ["Anti Nether Spawn Exploder", "Escape Anchor Death"],
+      "altDescriptions": ["Gives you a roof to protect you from the sun or anchors."]
+  },
+  "anti-anvil": {
+      "altNames": ["Anti Falling Block", "Anvil Defense"],
+      "altDescriptions": ["Places things on you to prevent people from placing things on you."]
+  },
+  "anti-bed": {
+      "altNames": ["Bed Defense", "Stop Bedfags"],
+      "altDescriptions": ["Places string and helps you live in peace."]
+  },
+  "arrow-dodge": {
+      "altNames": ["Arrow Misser", "Arrow Dodge Bot"],
+      "altDescriptions": ["Jukes out the annoying retarded arrows."]
+  },
+  "auto-anvil": {
+      "altNames": ["Anvil Placer", "Livan Otua"],
+      "altDescriptions": ["Jukes out the annoying retarded arrows."]
+  },
+  "auto-armor": {
+      "altNames": ["Armor Equipper", "Plot Armor Adder", "Armor Adder"],
+      "altDescriptions": ["AutoMATICALLY pUUts On ARMoR WOOOOW."]
+  },
+  "auto-city": {
+      "altNames": ["City Builder", "Surround Attacker"],
+      "altDescriptions": ["Break the shit around players to place crystals"]
+  },
+  "auto-exp": {
+      "altNames": ["Exp Automatic", "Level Gainer"],
+      "altDescriptions": ["Level up your game."]
+  },
+  "arrow-dodge": {
+      "altNames": ["Arrow Misser", "Arrow Dodge Bot"],
+      "altDescriptions": ["Jukes out the annoying retarded arrows."]
+  },
   "auto-totem": {
       "altNames": ["Religious Doll Carrier", "Anti Die"],
       "altDescriptions": ["Your enemy is approaching, you have very little time, a floating piece of shit explodes, and what do you know. A doll kept you alive"]
+  },
+  "auto-trap": {
+      "altNames": ["Auto Stuck", "Backwards Surround"],
+      "altDescriptions": ["Makes your opponents surrounded with blocks."]
+  },
+  "auto-weapon": {
+      "altNames": ["Weapon Switcher", "Supierior Tool User"],
+      "altDescriptions": ["Switches to the supierior thing that you have in your hotbar."]
+  },
+  "auto-web": {
+      "altNames": ["Retarded Module"],
+      "altDescriptions": ["One, of many retarded ways of killing someone"]
+  },
+  "bed-aura": {
+      "altNames": ["Bed Killer", "Bed Placer"],
+      "altDescriptions": ["Uses beds to explode young children."]
+  },
+  "bow-aimbot": {
+      "altNames": ["Bow Aimer", "Bow Module"],
+      "altDescriptions": ["Auto Aim, but for bows."]
   }
 }
