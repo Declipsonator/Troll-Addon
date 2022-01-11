@@ -43,10 +43,6 @@
       "altNames": ["Exp Automatic", "Level Gainer"],
       "altDescriptions": ["Level up your game."]
   },
-  "arrow-dodge": {
-      "altNames": ["Arrow Misser", "Arrow Dodge Bot"],
-      "altDescriptions": ["Jukes out the annoying retarded arrows."]
-  },
   "auto-totem": {
       "altNames": ["Religious Doll Carrier", "Anti Die"],
       "altDescriptions": ["Your enemy is approaching, you have very little time, a floating piece of shit explodes, and what do you know. A doll kept you alive"]
