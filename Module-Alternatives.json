@@ -66,5 +66,9 @@
   "bow-aimbot": {
       "altNames": ["Bow Aimer", "Bow Module"],
       "altDescriptions": ["Auto Aim, but for bows."]
+  },
+  "bow-spam": {
+      "altNames": ["Spammer With Bow", "Bow Shooter"],
+      "altDescriptions": ["So retards can shoot their bow and annoy ppl"]
   }
 }
