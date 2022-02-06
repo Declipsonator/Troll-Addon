@@ -92,10 +92,6 @@
       "altNames": ["Item Switched","Auto Item Holder"],
       "altDescriptions": ["Automatically presses F on items in your inventory"]
   },
-  "surround": {
-      "altNames": ["Obsidian Placer","Foot Protect","Autofootplace","Anti Crystal Placer"],
-      "altDescriptions": ["The ultimate robot module"]
-  },
   "quiver": {
       "altNames": ["Self Bow Shooter","Auto Potion Shooter"],
       "altDescriptions": ["You should shoot yourself... NOW!!"]
