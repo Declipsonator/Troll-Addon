@@ -37,7 +37,7 @@
       "altDescriptions": ["Another robot module"],
   },
   "auto-totem": {
-      "altNames": ["Religious Doll Carrier", "Anti Die","],
+      "altNames": ["Religious Doll Carrier", "Anti Die"],
       "altDescriptions": ["What, you can't manual totem? Okay weirdo"]
   },
   "auto-trap": {
@@ -153,7 +153,7 @@
   }
   "fast-climb": {
       "altNames": ["Ascender","Autoladder","Ladder Climb"],
-      "altDescriptions": ["Makes you go up and down rapidly""]
+      "altDescriptions": ["Makes you go up and down rapidly"]
   }
   "flight": {
       "altNames": ["Air Runner","Airplane Mode","Auto Air Flyer"],
@@ -168,7 +168,7 @@
       "altDescriptions": ["Makes your legs BEEFY"]
   }
   "jesus": {
-      "altNames": ["Water Walker","Buoyancy Maker","Antiswim],
+      "altNames": ["Water Walker","Buoyancy Maker","Antiswim"],
       "altDescriptions": ["Makes you hydrophobic"]
   }
   "long-jump": {
@@ -184,7 +184,7 @@
       "altDescriptions": ["Makes you go quick all the time"]
   }
   "parkour": {
-      "altNames": ["Weirdchamp","Sheeesh],
+      "altNames": ["Weirdchamp","Sheeesh"],
       "altDescriptions": ["Gives you da hops"]
   }
   "reverse-step": {
@@ -215,7 +215,7 @@
       "altDescriptions": ["Sends you flying up walls like that one kid with the red suit"]
   }
   "sprint": {
-      "altNames": ["Marathon Helper","Sprint 5G Unlimited Plan],
+      "altNames": ["Marathon Helper","Sprint 5G Unlimited Plan"],
       "altDescriptions": ["Gives you all the stamina in the world wink wink"]
   }
   "step": {
