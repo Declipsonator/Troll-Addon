@@ -37,7 +37,7 @@
       "altDescriptions": ["Another robot module"],
   },
   "auto-totem": {
-      "altNames": ["Religious Doll Carrier", "Anti Die"],
+      "altNames": ["Religious Doll Carrier", "Anti Die","],
       "altDescriptions": ["What, you can't manual totem? Okay weirdo"]
   },
   "auto-trap": {
@@ -59,110 +59,110 @@
   "bow-aimbot": {
       "altNames": ["Spammer With Bow","Bow Shooter"],
       "altDescriptions": ["So retards can shoot their bow and annoy ppl"]
-  }
+  },
   "surround": {
       "altNames": ["Obsidian Placer","Foot Protect","Autofootplace","Anti Crystal Placer"],
       "altDescriptions": ["The ultimate robot module"]
-  }
+  },
   "burrow": {
       "altNames": ["Mole Boi","Skill Issue"],
       "altDescriptions": ["If you use anything but anvil mode you are a jew"]
-  }
+  },
   "offhand": {
       "altNames": ["Item Switched","Auto Item Holder"],
       "altDescriptions": ["Automatically presses F on items in your inventory"]
-  }
+  },
   "hitboxes": {
       "altNames": ["Hypixel Moment"],
       "altDescriptions": ["Why is this still in Meteor, literally has no use"]
-  }
+  },
   "hole-filler": {
       "altNames": ["Anti Safety Placer","Hole Placer","I long for death"],
       "altDescriptions": ["Automatically get called a retard by everyone in chat"]
-  }
+  },
   "self-trap": {
       "altNames": ["Coward"],
       "altDescriptions": ["Coward"]
-  }
+  },
   "kill-aura": {
       "altNames": ["Person Hitter", "Auto Attack","Killer Mode"],
       "altDescriptions": ["Kills people so fast and efficient!!"]
-  }
+  },
   "self-web": {
       "altNames": ["I hope you die"],
       "altDescriptions": ["and your grandma gets cancer"]
-  }
+  },
   "self-anvil": {
       "altNames": ["NN Module"],
       "altDescriptions": ["Anvil burrow is better in every way"]
-  }
+  },
 
 
 
   "air-jump": {
       "altNames": ["Cloud in a Bottle","Mario Mode"],
       "altDescriptions": ["Jump twice in a row aaaaaaa"]
-  }
+  },
   "anchor": {
       "altNames": ["Puller Downer","Auto Gravity","Movement Aid"],
       "altDescriptions": ["Makes you go into holes"]
-  }
+  },
   "anti-levitation": {
       "altNames": ["Anti Fly","Anti Floater","CounterShulker"],
       "altDescriptions": ["Says no to shulkers and their gay bullets"]
-  }
+  },
   "anti-void": {
       "altNames": ["Okay hypixel player"],
       "altDescriptions": ["Noone uses this pt. 3"]
-  }
+  },
   "auto-jump": {
       "altNames": ["Jump spammer","Trollface"],
       "altDescriptions": ["This is a real jump moment"]
-  }
+  },
   "auto-walk": {
       "altNames": ["Auto Forward","Take a Stroll","Explorer"],
       "altDescriptions": ["Makes you go places slowly"]
-  }
+  },
   "blink": {
       "altNames": ["Stupid ugly bitch"],
       "altDescriptions": ["Die in a hole"]
-  }
+  },
   "boat-fly": {
       "altNames": ["Sick Rides","Naval Control"],
       "altDescriptions": ["Sends you into the sky with your vessel"]
-  }
+  },
   "click-tp": {
       "altNames": ["Rubberband","Auto Lagback"],
       "altDescriptions": ["Why is this still a module in 2022?"]
-  }
+  },
   "elytra-boost": {
       "altNames": ["Fake Firework User","Elytra Sender","Flight Helper"],
       "altDescriptions": ["Uses fireworks but actually doesn't"]
-  }
+  },
   "elytra-fly": {
       "altNames": ["Wings Control","Airplane Mode","Genie"],
       "altDescriptions": ["Gives you wings!"]
-  }
+  },
   "entity-control": {
       "altNames": ["Mind Controller","Animal Control"],
       "altDescriptions": ["makes animals do your bidding "]
-  }
+  },
   "entity-speed": {
       "altNames": ["Animal Zoomer"],
       "altDescriptions": ["Makes animals go ZOOM"]
-  }
+  },
   "fast-climb": {
       "altNames": ["Ascender","Autoladder","Ladder Climb"],
-      "altDescriptions": ["Makes you go up and down rapidly"]
-  }
+      "altDescriptions": ["Makes you go up and down rapidly""]
+  },
   "flight": {
       "altNames": ["Air Runner","Airplane Mode","Auto Air Flyer"],
       "altDescriptions": ["Makse you fly"]
-  }
+  },
   "gui-move": {
       "altNames": ["Inventory Movement","GUI Jump Walker"],
       "altDescriptions": ["Lets you move around or smth"]
-  }
+  },
   "high-jump": {
       "altNames": ["Big Jumper","Steroids Giver","Auto High Jump"],
       "altDescriptions": ["Makes your legs BEEFY"]
@@ -170,46 +170,47 @@
   "jesus": {
       "altNames": ["Water Walker","Buoyancy Maker","Antiswim"],
       "altDescriptions": ["Makes you hydrophobic"]
-  }
+  },
   "long-jump": {
       "altNames": ["Worse Jump","Failed Bypass"],
       "altDescriptions": ["This just doesn't work past 1.12 rip"]
-  }
+  },
   "no-fall": {
       "altNames": ["Feather Faller","BEEFY ANKLES","Auto Cat"],
       "altDescriptions": ["Makes you not take fall damage from da heights"]
-  }
+  },
   "no-slow": {
       "altNames": ["Anti Slowdown","Eater Speeder Upper"],
       "altDescriptions": ["Makes you go quick all the time"]
-  }
+  },
   "parkour": {
       "altNames": ["Weirdchamp","Sheeesh"],
       "altDescriptions": ["Gives you da hops"]
-  }
+  },
   "reverse-step": {
       "altNames": ["Fast Down","Auto Downwward Goer"],
       "altDescriptions": ["Makes you drop like that ass"]
-  }
+  },
   "safe-walk": {
       "altNames": ["Auto Safety Mover","Anti Touchh Hurt"],
       "altDescriptions": ["Keeps your fragile body from burning or rotting away"]
-  }
+  },
   "scaffold": {
       "altNames": ["Block Placer","Auto Block Flyer","Tower Maker"],
       "altDescriptions": ["Makes you breezily bridge with ease"]
-  }
+  },
   "slippy": {
       "altNames": ["Weird Module","Ice Simulator","Super Cool Simulator"],
       "altDescriptions": ["Makes you super duper cool"]
-  }  "sneak": {
+  },
+  "sneak": {
       "altNames": ["Auto Sneaky","Name Hider","Anti Standing"],
       "altDescriptions": ["makes you always in the crouch position uwu"]
-  }
+  },
   "speed": {
       "altNames": ["Fast Mover","Auto Runner","QQUICK WALK","Bunny Hop"],
       "altDescriptions": ["Gotta go fast"]
-  }
+  },
   "spider": {
       "altNames": ["Wall Climber","Auto Climb","Fast Scaler"],
       "altDescriptions": ["Sends you flying up walls like that one kid with the red suit"]
@@ -217,162 +218,162 @@
   "sprint": {
       "altNames": ["Marathon Helper","Sprint 5G Unlimited Plan"],
       "altDescriptions": ["Gives you all the stamina in the world wink wink"]
-  }
+  },
   "step": {
       "altNames": ["Auto Up","Auto Upwards Jumper","bru"],
       "altDescriptions": ["Makes you go upwards"]
-  }
+  },
   "trident-boost": {
       "altNames": ["Trident Supercharge","Fork Enhancer"],
       "altDescriptions": ["Makes your trident actually useful"]
-  }
+  },
   "velocity": {
       "altNames": ["Anti Knockback","No Pushing","Anti Rubberband"],
       "altDescriptions": ["Makes you immune"]
-  }
+  },
 
 
 
   "better-tooltips": {
       "altNames": ["Item Information","Bigger Item Name","Shulker Shower"],
       "altDescriptions": ["Makes the items bigger in your hand"]
-  }
+  },
   "block-selection": {
       "altNames": ["Block Shower","Block View","Target"],
       "altDescriptions": ["Shows what you're looking at"]
-  }
+  },
   "blur": {
       "altNames": ["Bad Vision","Anti Glasses"],
       "altDescriptions": ["Makes your vision terrible"]
-  }
+  },
   "boss-stack": {
       "altNames": ["Name Multiplier","Adblocker"],
       "altDescriptions": ["Removes pesky withers from your screen"]
-  }
+  },
   "breadcrumbs": {
       "altNames": ["Leave A Trail","Movement Shower"],
       "altDescriptions": ["Shows the places you've been"]
-  }
+  },
   "break-indicators": {
       "altNames": ["Break Shower","Break Progress"],
       "altDescriptions": ["Bruh"]
-  }
+  },
   "camera-tweaks": {
       "altNames": ["Camera Changer","Camera Mover"],
       "altDescriptions": ["Makes the camera cool"]
-  }
+  },
   "chams": {
       "altNames": ["ESP"],
       "altDescriptions": ["Trolled cope"]
-  }
+  },
   "city-esp": {
       "altNames": ["Good Block To Mine Shower","Auto Block Mine Target"],
       "altDescriptions": ["Shows you da good blocks"]
-  }
+  },
   "entity-owner": {
       "altNames": ["Owner Shower","Doggy Reveal"],
       "altDescriptions": ["Animal abandonment and neglect is a serious crime"]
-  }
+  },
   "esp": {
       "altNames": ["Chams"],
       "altDescriptions": ["Cope nn"]
-  }
+  },
   "free-look": {
       "altNames": ["NN Module"],
       "altDescriptions": ["Useless module tbh"]
-  }
+  },
   "freecam": {
       "altNames": ["Out of Body Experience","Third Eye Look"],
       "altDescriptions": ["Move like a ghost to observe people"]
-  }
+  },
   "fullbright": {
       "altNames": ["Sun Simulator","Gamma Controller"],
       "altDescriptions": ["Blinds you by the lights, I can't sleep until I feel your touch uwu"]
-  }
+  },
   "hand-view": {
       "altNames": ["Hand Changer","Hand Morpher","Viewmodel Editor"],
       "altDescriptions": ["Changes the way your hands look"]
-  }
+  },
   "hole-esp": {
       "altNames": ["Hole Locator","Show Me Safety Place"],
       "altDescriptions": ["Locates safe spots for you to curl up and cry"]
-  }
+  },
   "item-highlight": {
       "altNames": ["Underrated Module"],
       "altDescriptions": ["This is actually p helpful with transparent gui packs"]
-  }
+  },
   "item-physics": {
       "altNames": ["Real Block Game","Item Gravity"],
       "altDescriptions": ["Makes items realer"]
-  }
+  },
   "light-overlay": {
       "altNames": ["Spawns Shower","Light Measure"],
       "altDescriptions": ["Measures the light that blinded you I can't sleep until I feel your touch uwu"]
-  }
+  },
   "logout-spots": {
       "altNames": ["EZZZZZZZZ LOG"],
       "altDescriptions": ["So ez"]
-  }
+  },
   "marker": {
       "altNames": ["Builder Helper","Show Shapes"],
       "altDescriptions": ["Makes you see things like a schizo"]
-  }
+  },
   "nametags": {
       "altNames": ["Player Name Shower","Names ESP","Informational"],
       "altDescriptions": ["Makes you see all about people"]
-  }
+  },
   "no-render": {
       "altNames": ["Thing Hider","No View"],
       "altDescriptions": ["Hides stuff from you"]
-  }
+  },
   "pop-chams": {
       "altNames": ["Pop Shower","Danger Alerter"],
       "altDescriptions": ["Makes you see people's pain"]
-  }
+  },
   "search": {
       "altNames": ["Block Finder","Look for Things"],
       "altDescriptions": ["Searches for the stuff you wanna find"]
-  }
+  },
   "storage-esp": {
       "altNames": ["CHEST ESP YAYA"],
       "altDescriptions": ["I GOT REAL EXCTIED FOR WHATEVER REASON"]
-  }
+  },
   "time-changer": {
       "altNames": ["Change Daytime","Control The Day"],
       "altDescriptions": ["Makes the time different"]
-  }
+  },
   "tracers": {
       "altNames": ["Player Lines","Line Adder"],
       "altDescriptions": ["Adds lines to your screen"]
-  }
+  },
   "trail": {
       "altNames": ["Particle Spawner","Why Is This Real"],
       "altDescriptions": ["NOt a single person asked for hypixel style aesthetics"]
-  }
+  },
   "trajectories": {
       "altNames": ["Aim Viewer","Entity Finder"],
       "altDescriptions": ["Shows where stuff is gonna go"]
-  }
+  },
   "unfocused-cpu": {
       "altNames": ["Memory Saver","RAM Helper"],
       "altDescriptions": ["Makes meteor better"]
-  }
+  },
   "void-esp": {
       "altNames": ["LOLOL trolled"],
       "altDescriptions": ["you loaded a troll addon nn cope!!"]
-  }
+  },
   "wall-hack": {
       "altNames": ["Transparent Block Maker","See Througher"],
       "altDescriptions": ["Makes blocks seethrough"]
-  }
+  },
   "waypoints": {
       "altNames": ["Destination Shower","Travel Spots"],
       "altDescriptions": ["Shows where  you wanna go"]
-  }
+  },
   "xray": {
       "altNames": ["Orefinder","Wallhack but worse"],
       "altDescriptions": ["Just doesn't work with sodium, what even is the point"]
-  }
+  },
   "zoom": {
       "altNames": ["Zoomer","INsane Skid"],
       "altDescriptions": ["Zooms you in"]
