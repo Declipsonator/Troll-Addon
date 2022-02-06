@@ -12,7 +12,7 @@
       "altNames": ["Anvil Preventer","Anvil Delete"],
       "altDescriptions": ["Keeps them from doing the thing"]
   },
-    "anti-bed": {
+  "anti-bed": {
       "altNames": ["Bed Defense", "Stop Bedfags"],
       "altDescriptions": ["This module literally doesn't work"]
   },
