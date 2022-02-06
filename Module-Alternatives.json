@@ -37,7 +37,7 @@
       "altDescriptions": ["Another robot module"],
   },
   "auto-totem": {
-      "altNames": ["Religious Doll Carrier", "Anti Die","],
+      "altNames": ["Religious Doll Carrier", "Anti Die"],
       "altDescriptions": ["What, you can't manual totem? Okay weirdo"]
   },
   "auto-trap": {
