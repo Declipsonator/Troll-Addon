@@ -1,7 +1,5 @@
 {
 
-//Combat Modules
-
   "crystal-aura": {
       "altNames": ["Floating Gem Spammer", "Crystal Placer","Exploder Tool"],
       "altDescriptions": ["Placing minecraft entities on bedrock to make annoying people go kaboom."]
@@ -99,7 +97,7 @@
       "altDescriptions": ["Anvil burrow is better in every way"]
   }
 
-//Movement Modules
+
 
   "air-jump": {
       "altNames": ["Cloud in a Bottle","Mario Mode"],
@@ -233,7 +231,7 @@
       "altDescriptions": ["Makes you immune"]
   }
 
-//Render Modules
+
 
   "better-tooltips": {
       "altNames": ["Item Information","Bigger Item Name","Shulker Shower"],
