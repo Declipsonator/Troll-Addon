@@ -34,7 +34,7 @@
   },
   "auto-exp": {
       "altNames": ["Bottle Thrower", "Level Gainer"],
-      "altDescriptions": ["Another robot module"],
+      "altDescriptions": ["Another robot module"]
   },
   "auto-totem": {
       "altNames": ["Religious Doll Carrier", "Anti Die"],
@@ -166,7 +166,7 @@
   "high-jump": {
       "altNames": ["Big Jumper","Steroids Giver","Auto High Jump"],
       "altDescriptions": ["Makes your legs BEEFY"]
-  }
+  },
   "jesus": {
       "altNames": ["Water Walker","Buoyancy Maker","Antiswim"],
       "altDescriptions": ["Makes you hydrophobic"]
@@ -214,7 +214,7 @@
   "spider": {
       "altNames": ["Wall Climber","Auto Climb","Fast Scaler"],
       "altDescriptions": ["Sends you flying up walls like that one kid with the red suit"]
-  }
+  },
   "sprint": {
       "altNames": ["Marathon Helper","Sprint 5G Unlimited Plan"],
       "altDescriptions": ["Gives you all the stamina in the world wink wink"]
