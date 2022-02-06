@@ -16,10 +16,6 @@
       "altNames": ["Bed Defense", "Stop Bedfags"],
       "altDescriptions": ["This module literally doesn't work"]
   },
-  "crystal-aura": {
-      "altNames": ["Floating Gem Spammer", "Crystal Placer","Exploder Tool"],
-      "altDescriptions": ["Placing minecraft entities on bedrock to make annoying people go kaboom."]
-  },
   "arrow-dodge": {
       "altNames": ["Arrow Misser", "Arrow Dodge Bot"],
       "altDescriptions": ["AKA Auto Rubberband on any decent server"]
