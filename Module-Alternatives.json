@@ -153,7 +153,7 @@
   },
   "fast-climb": {
       "altNames": ["Ascender","Autoladder","Ladder Climb"],
-      "altDescriptions": ["Makes you go up and down rapidly""]
+      "altDescriptions": ["Makes you go up and down rapidly"]
   },
   "flight": {
       "altNames": ["Air Runner","Airplane Mode","Auto Air Flyer"],
