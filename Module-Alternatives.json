@@ -535,7 +535,7 @@
   "auto-brewer": {
       "altNames": ["Potion Maker","Potion Crafter"],
       "altDescriptions": ["Makes potions 4 u"]
-  }
+  },
   "auto-mount": {
       "altNames": ["Auto Horse Ride","Auto Get On Animals"],
       "altDescriptions": ["Makes you be on things"]
@@ -611,6 +611,6 @@
   "vein-miner": {
       "altNames": ["Ore Miner EX"],
       "altDescriptions": ["Mines EVERYTHING at once"]
-  },
+  }
 
 }
