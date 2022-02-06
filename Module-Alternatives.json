@@ -12,7 +12,7 @@
       "altNames": ["Anvil Preventer","Anvil Delete"],
       "altDescriptions": ["Keeps them from doing the thing"]
   },
-  "anti-bed": {
+    "anti-bed": {
       "altNames": ["Bed Defense", "Stop Bedfags"],
       "altDescriptions": ["This module literally doesn't work"]
   },
@@ -391,8 +391,226 @@
       "altDescriptions": ["Just doesn't work with sodium, what even is the point"]
   },
   "zoom": {
-      "altNames": ["Zoomer","INsane Skid"],
+      "altNames": ["Zoomer","Insane Skid"],
       "altDescriptions": ["Zooms you in"]
+  },
+
+  
+  
+  "air-place": {
+      "altNames": ["Magic Placer","Anti Gravity Block"],
+      "altDescriptions": ["PLaces stuff in the air"]
+  },
+  "anti-afk": {
+      "altNames": ["Spinner Message","Activity Simulator"],
+      "altDescriptions": ["makes you appear to be at your computer"]
+  },
+  "anti-hunger": {
+      "altNames": ["Saturation Keeper","Fake Food"],
+      "altDescriptions": ["Makes you not hungry anymore (high demand in africa)"]
+  },
+  "auto-clicker": {
+      "altNames": ["Click Aura","Hypixel Helper"],
+      "altDescriptions": ["Useless module lol"]
+  },
+  "auto-eat": {
+      "altNames": ["Auto Consume","Food Eater"],
+      "altDescriptions": ["Will eat stuff for you"]
+  },
+  "auto-fish": {
+      "altNames": ["Fish Catcher","Steve Irwin Aura"],
+      "altDescriptions": ["Catches fish ez"]
+  },
+  "auto-gap": {
+      "altNames": ["Auto Gapple Eater","Terrible Module"],
+      "altDescriptions": ["How robo can you be??"]
+  },
+  "auto-mend": {
+      "altNames": ["Auto Fixer","Auto Offhand Switcher"],
+      "altDescriptions": ["Makes you fix stuff easier"]
+  },
+  "auto-replenish": {
+      "altNames": ["Auto Item Giver","Item Fill"],
+      "altDescriptions": ["Gives you more items in the thing"]
+  },
+  "auto-respawn": {
+      "altNames": ["Death Bypass","Auto Uncope"],
+      "altDescriptions": ["Makes your respawn immediate instant"]
+  },
+  "auto-tool": {
+      "altNames": ["Auto Hold Pick","Implement Chooser"],
+      "altDescriptions": ["Finds good stuff to use for breaking"]
+  },
+  "chest-swap": {
+      "altNames": ["Elytra Taker Offer","Chestplate Remove"],
+      "altDescriptions": ["Makes it easier to fly"]
+  },
+  "exp-thrower": {
+      "altNames": ["Auto Throw","XP Sender"],
+      "altDescriptions": ["Throws the good stuff all over"]
+  },
+  "fake-player": {
+      "altNames": ["Ghost Maker","Takashi Simulator"],
+      "altDescriptions": ["Makes you see sum shit"]
+  },
+  "fast-use": {
+      "altNames": ["Quick Interacter","Faster Use Thing"],
+      "altDescriptions": ["He's got those wiggly hands"]
+  },
+  "ghost-hand": {
+      "altNames": ["Wall Bypass"],
+      "altDescriptions": ["Through the walls"]
+  },
+  "insta-mine": {
+      "altNames": ["Block Deleter","Instant Destroy"],
+      "altDescriptions": ["Mines blocks with considerable ease"]
+  },
+  "liquid-interact": {
+      "altNames": ["Water Filler","Block Liquid Placer"],
+      "altDescriptions": ["places stuff in the water and lava"]
+  },
+  "middle-click-extra": {
+      "altNames": ["Mouse Enhancer","Middle Clicker"],
+      "altDescriptions": ["Makes middle click useful"]
+  },
+  "name-protect": {
+      "altNames": ["Fake Namer","Namehide"],
+      "altDescriptions": ["Conceals your identity like batman"]
+  },
+  "no-break-delay": {
+      "altNames": ["Delay Remover","Usain Bolt Mine"],
+      "altDescriptions": ["Makes you mine faster"]
+  },
+  "no-interact": {
+      "altNames": ["Chest Blocker","Anti Clicker"],
+      "altDescriptions": ["Keeps you from fucking up"]
+  },
+  "no-mining-trace": {
+      "altNames": ["Ignore Players"],
+      "altDescriptions": ["Mine straight through em"]
+  },
+  "no-rotate": {
+      "altNames": ["Rotate Ignorer","Anti Look Teller"],
+      "altDescriptions": ["Ignores the silly little server"]
+  },
+  "portals": {
+      "altNames": ["POrtal Better","Portalgui Extra ++ v2 R S Max"],
+      "altDescriptions": ["Lets you use stuff in portals"]
+  },
+  "potion-saver": {
+      "altNames": ["Potion Conserve","Anti Potion Use"],
+      "altDescriptions": ["Makes you not lose potions if you stand still"]
+  },
+  "potion-spoof": {
+      "altNames": ["Fake Efects","Potion Troller"],
+      "altDescriptions": ["Makes fake potions for you"]
+  },
+  "reach": {
+      "altNames": ["Long Arms","Lebron James"],
+      "altDescriptions": ["Gives you all the long arms"]
+  },
+  "rotation": {
+      "altNames": ["Orientation","Player Pointer"],
+      "altDescriptions": ["Makes you face stuff"]
+  },
+  "speed-mine": {
+      "altNames": ["Fast Miner","Super Miner Module"],
+      "altDescriptions": ["Makes you mine but quicker"]
+  },
+  
+  
+  
+  "ambience": {
+      "altNames": ["World Aesthetics","Sky Changer"],
+      "altDescriptions": ["Changes the world owo"]
+  },
+  "anti-cactus": {
+      "altNames": ["Prick Avoider","Anti Green Plant"],
+      "altDescriptions": ["Doesn't let you be pricked"]
+  },
+  "auto-breed": {
+      "altNames": ["Auto Animal Sex","Animal Child Maker"],
+      "altDescriptions": ["Makes animals have hot sweaty bdsm sex"]
+  },
+  "auto-brewer": {
+      "altNames": ["Potion Maker","Potion Crafter"],
+      "altDescriptions": ["Makes potions 4 u"]
   }
+  "auto-mount": {
+      "altNames": ["Auto Horse Ride","Auto Get On Animals"],
+      "altDescriptions": ["Makes you be on things"]
+  },
+  "auto-nametag": {
+      "altNames": ["Animal Namer","Nametag Spammer"],
+      "altDescriptions": ["Puts nametags on stuff"]
+  },
+  "auto-shearer": {
+      "altNames": ["Naked Sheep","Sheep Pantser"],
+      "altDescriptions": ["Makes sheep smooth and barren"]
+  },
+  "auto-sign": {
+      "altNames": ["Auto Writer Signs"],
+      "altDescriptions": ["Makes signs write themselves"]
+  },
+  "auto-smelter": {
+      "altNames": ["Auto Ore Furnace","Furnace Manager"],
+      "altDescriptions": ["Will make the ores cook like the jews"]
+  },
+  "build-height": {
+      "altNames": ["Tall Construction","Place Bypass"],
+      "altDescriptions": ["Lets you place stuff up high"]
+  },
+  "echest-farmer": {
+      "altNames": ["Chest Miner","Obsidian Maker"],
+      "altDescriptions": ["Makes you lots of obsidian"]
+  },
+  "enderman-look": {
+      "altNames": ["Anti Eye Looker","Eye Bypass EZZZ"],
+      "altDescriptions": ["Doesn't look at enderman"]
+  },
+  "flamethrower": {
+      "altNames": ["Animal Burner","Hell"],
+      "altDescriptions": ["make them BURN AYAYAYAYAYAYAYA"]
+  },
+  "highway-builder": {
+      "altNames": ["Road Maker","Long Building"],
+      "altDescriptions": ["makes really long roads"]
+  },
+  "infinity-miner": {
+      "altNames": ["BAritone manager","Ore Miner Always"],
+      "altDescriptions": ["mines ores"]
+  },
+  "liquid-filler": {
+      "altNames": ["water lava placer","anti water lava"],
+      "altDescriptions": ["I hate caves I hate caves I hate caves"]
+  },
+  "mount-bypass": {
+      "altNames": ["Popbob Sex Dupe"],
+      "altDescriptions": ["real module!!"]
+  },
+  "nuker": {
+      "altNames": ["Block Breaker","Destroy!!"],
+      "altDescriptions": ["Kills blocks"]
+  },
+  "packet-mine": {
+      "altNames": ["Silent Miner","Sneaky Boi"],
+      "altDescriptions": ["Mines them but silently o3o"]
+  },
+  "spawn-proofer": {
+      "altNames": ["Auto light up","Anti Monster"],
+      "altDescriptions": ["Makes it so monsters can't spawn"]
+  },
+  "stash-finder": {
+      "altNames": ["Chest Finder Locator","Base Finder"],
+      "altDescriptions": ["Finds bases"]
+  },
+  "timer": {
+      "altNames": ["World Speed Changer","Funny Troller"],
+      "altDescriptions": ["makes it fAST"]
+  },
+  "vein-miner": {
+      "altNames": ["Ore Miner EX"],
+      "altDescriptions": ["Mines EVERYTHING at once"]
+  },
 
 }
