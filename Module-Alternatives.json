@@ -1,9 +1,5 @@
 {
-
-  "crystal-aura": {
-      "altNames": ["Floating Gem Spammer", "Crystal Placer","Exploder Tool"],
-      "altDescriptions": ["Placing minecraft entities on bedrock to make annoying people go kaboom."]
-  },
+  
   "aim-assist": {
       "altNames": ["Auto Aimer", "Look For You"],
       "altDescriptions": ["Hypixel player's wet dream!"]
@@ -12,10 +8,18 @@
       "altNames": ["Nether Spawn Exploder", "Anchor Boom Boom"],
       "altDescriptions":["Fuck you if you use this"]
   },
-  "anti-bed": {
+  "anti-anvil": {
+      "altNames": ["Anvil Preventer","Anvil Delete"],
+      "altDescriptions": ["Keeps them from doing the thing"]
+  },
+    "anti-bed": {
       "altNames": ["Bed Defense", "Stop Bedfags"],
       "altDescriptions": ["This module literally doesn't work"]
   },
+  "crystal-aura": {
+      "altNames": ["Floating Gem Spammer", "Crystal Placer","Exploder Tool"],
+      "altDescriptions": ["Placing minecraft entities on bedrock to make annoying people go kaboom."]
+  }
   "arrow-dodge": {
       "altNames": ["Arrow Misser", "Arrow Dodge Bot"],
       "altDescriptions": ["AKA Auto Rubberband on any decent server"]
@@ -57,20 +61,24 @@
       "altDescriptions": ["Hehehe I love hole campers they are so free!!"]
   },
   "bow-aimbot": {
-      "altNames": ["Spammer With Bow","Bow Shooter"],
+      "altNames": ["Aimbot","Auto Aimer"],
       "altDescriptions": ["So retards can shoot their bow and annoy ppl"]
   },
-  "surround": {
-      "altNames": ["Obsidian Placer","Foot Protect","Autofootplace","Anti Crystal Placer"],
-      "altDescriptions": ["The ultimate robot module"]
+  "bow-spam": {
+      "altNames": ["Bow Shooter","Machinegun Mode"],
+      "altDescriptions": ["MAKES YOU SHOOT FAST"]
   },
   "burrow": {
       "altNames": ["Mole Boi","Skill Issue"],
       "altDescriptions": ["If you use anything but anvil mode you are a jew"]
   },
-  "offhand": {
-      "altNames": ["Item Switched","Auto Item Holder"],
-      "altDescriptions": ["Automatically presses F on items in your inventory"]
+  "criticals": {
+      "altNames": ["Fake Jumper","Damage Increase"],
+      "altDescriptions": ["Makes you seem like you in the air"]
+  },
+  "crystal-aura": {
+      "altNames": ["Floating Gem Spammer", "Crystal Placer","Exploder Tool"],
+      "altDescriptions": ["Placing minecraft entities on bedrock to make annoying people go kaboom."]
   },
   "hitboxes": {
       "altNames": ["Hypixel Moment"],
@@ -80,21 +88,37 @@
       "altNames": ["Anti Safety Placer","Hole Placer","I long for death"],
       "altDescriptions": ["Automatically get called a retard by everyone in chat"]
   },
-  "self-trap": {
-      "altNames": ["Coward"],
-      "altDescriptions": ["Coward"]
-  },
   "kill-aura": {
       "altNames": ["Person Hitter", "Auto Attack","Killer Mode"],
       "altDescriptions": ["Kills people so fast and efficient!!"]
+  },
+  "offhand": {
+      "altNames": ["Item Switched","Auto Item Holder"],
+      "altDescriptions": ["Automatically presses F on items in your inventory"]
+  },
+  "surround": {
+      "altNames": ["Obsidian Placer","Foot Protect","Autofootplace","Anti Crystal Placer"],
+      "altDescriptions": ["The ultimate robot module"]
+  },
+  "quiver": {
+      "altNames": ["Self Bow Shooter","Auto Potion Shooter"],
+      "altDescriptions": ["You should shoot yourself... NOW!!"]
+  },
+  "self-anvil": {
+      "altNames": ["NN Module"],
+      "altDescriptions": ["Anvil burrow is better in every way"]
+  },
+  "self-trap": {
+      "altNames": ["Coward"],
+      "altDescriptions": ["Coward"]
   },
   "self-web": {
       "altNames": ["I hope you die"],
       "altDescriptions": ["and your grandma gets cancer"]
   },
-  "self-anvil": {
-      "altNames": ["NN Module"],
-      "altDescriptions": ["Anvil burrow is better in every way"]
+  "surround": {
+      "altNames": ["Obsidian Placer","Foot Protect","Autofootplace","Anti Crystal Placer"],
+      "altDescriptions": ["The ultimate robot module"]
   },
 
 
