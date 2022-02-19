@@ -17,7 +17,7 @@
       "altDescriptions": ["This module literally doesn't work"]
   },
   "arrow-dodge": {
-      "altNames": ["Arrow Misser", "Arrow Dodge Bot"],
+      "altNames": ["Arrow Misser", "Arrow Dodge Bot", "Skeleton Troller"],
       "altDescriptions": ["AKA Auto Rubberband on any decent server"]
   },
   "auto-anvil": {
@@ -251,8 +251,8 @@
 
 
   "better-tooltips": {
-      "altNames": ["Item Information","Bigger Item Name","Shulker Shower"],
-      "altDescriptions": ["Makes the items bigger in your hand"]
+      "altNames": ["Item Information","Bigger Item Name","Shulker Shower", "Hentai Map Art Visualizer"],
+      "altDescriptions": ["Makes the items bigger in your hand", "Enjoy hentai in your inventory."]
   },
   "block-selection": {
       "altNames": ["Block Shower","Block View","Target"],
@@ -458,7 +458,7 @@
       "altDescriptions": ["He's got those wiggly hands"]
   },
   "ghost-hand": {
-      "altNames": ["Wall Bypass"],
+      "altNames": ["Wall Bypass", "Wall Chest Opener"],
       "altDescriptions": ["Through the walls"]
   },
   "insta-mine": {
@@ -565,11 +565,11 @@
       "altDescriptions": ["Makes you lots of obsidian"]
   },
   "enderman-look": {
-      "altNames": ["Anti Eye Looker","Eye Bypass EZZZ"],
+      "altNames": ["Anti Eye Looker","Eye Bypass EZZZ", "Social Anxiety Emulator"],
       "altDescriptions": ["Doesn't look at enderman"]
   },
   "flamethrower": {
-      "altNames": ["Animal Burner","Hell"],
+      "altNames": ["Animal Burner","Hell", "Baconator"],
       "altDescriptions": ["make them BURN AYAYAYAYAYAYAYA"]
   },
   "highway-builder": {
@@ -609,8 +609,16 @@
       "altDescriptions": ["makes it fAST"]
   },
   "vein-miner": {
-      "altNames": ["Ore Miner EX"],
-      "altDescriptions": ["Mines EVERYTHING at once"]
+      "altNames": ["Ore Miner EX", "Paraplegic Baritone"],
+      "altDescriptions": ["Mines EVERYTHING at once", "It's like baritone, but paralized from the waist down"]
+  },
+  "swarm": {
+      "altNames": ["Botnet", "Slave Simulator"],
+      "altDescriptions": ["Play with all your stolen accounts at once"]
+  },
+  "notebot": {
+      "altNames": ["Random Noteblock Clicker"],
+      "altDescriptions": ["Don't even try playing multiple sounds at once"]
   }
 
 }
