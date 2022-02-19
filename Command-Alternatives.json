@@ -6,5 +6,29 @@
   "dismount": {
       "altNames": ["leave-entity", "jump-off-minecraft-thing"],
       "altDescriptions": ["Teleports off the entity and to a random spot around it, like chorus fruit."]
+  },
+  "server": {
+    "altNames": ["what-did-i-connect-to", "dox-ip"],
+    "altDescriptions": ["Reminds you which server are you connected to"]
+  },
+  "inventory": {
+    "altNames": ["inventory-steal"],
+    "altDescriptions": []
+  },
+  "hclip": {
+    "altNames": ["horizontal-rubberband"],
+    "altDescriptions": []
+  },
+  "vclip": {
+    "altNames": ["vertical-rubberband"],
+    "altDescriptions": []
+  },
+  "spectate": {
+    "altNames": ["body-steal"],
+    "altDescriptions": ["Steal bodies of other players"]
+  },
+  "fake-player": {
+    "altNames": ["spawn-friend", "enable-schizophrenia"],
+    "altDescriptions": ["Spawn imaginary friends", "Gives you schizophrenia"]
   }
 }
