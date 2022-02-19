@@ -13,15 +13,15 @@
   },
   "inventory": {
     "altNames": ["inventory-steal"],
-    "altDescriptions": []
+    "altDescriptions": ["Look inside"]
   },
   "hclip": {
-    "altNames": ["horizontal-rubberband"],
-    "altDescriptions": []
+    "altNames": ["horizontal-rubberband", "ignore-wall"],
+    "altDescriptions": ["Try to clip through walls and inevitably fail"]
   },
   "vclip": {
-    "altNames": ["vertical-rubberband"],
-    "altDescriptions": []
+    "altNames": ["vertical-rubberband", "ignore-floor"],
+    "altDescriptions": ["Try to clip through ceilings and inevitably fail"]
   },
   "spectate": {
     "altNames": ["body-steal"],
