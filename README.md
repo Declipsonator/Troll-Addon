@@ -3,6 +3,10 @@
     <p>Troll Addon is an addon to the Meteor Client utility mod.</p>
 </div>  
 
+# DUPE
+This is a **brand new** 1.18.2 paper dupe. It is so op that it makes me cry\
+Look at it [Here](https://oke.io/XvOcH)!\
+(Ignore the link shortener, its for the github duplication glitch scrapers, making sure paper doesn't patch it immediately)
 
 ## Install:
 - Go to the releases: https://github.com/Declipsonator/Troll-Addon/releases/latest
